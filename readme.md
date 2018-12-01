@@ -79,6 +79,8 @@ Now we have all parts gathered to run the wrapper function `generate_img` from t
 generate_img()
 ```
 
+![](circle_example.png)
+
 From here, you can play with the input parameters to generate different looking images.
 
 You can change these variables in `get_circle_data()`:
