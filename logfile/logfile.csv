@@ -1,0 +1,214 @@
+file_name	seed	formula_x	formula_y
+NA	NA	NA	NA
+2018-11-04-12-00_seed_4442.png	4442	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-00_seed_50.png	50	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-00_seed_1521.png	1521	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-00_seed_1011.png	1011	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-00_seed_45.png	45	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-00_seed_9776.png	9776	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-01_seed_2162.png	2162	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-01_seed_6332.png	6332	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-01_seed_6055.png	6055	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-05_seed_8050.png	8050	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-05_seed_6755.png	6755	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-05_seed_9636.png	9636	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-05_seed_4653.png	4653	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-06_seed_5215.png	5215	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-06_seed_5226.png	5226	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-06_seed_5984.png	5984	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-06_seed_3954.png	3954	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-06_seed_8287.png	8287	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-06_seed_3418.png	3418	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-07_seed_5704.png	5704	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-09_seed_3871.png	3871	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-10_seed_6663.png	6663	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-10_seed_4880.png	4880	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-10_seed_5498.png	5498	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-11_seed_7055.png	7055	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-13_seed_1187.png	1187	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-19_seed_1812.png	1812	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-19_seed_3926.png	3926	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-20_seed_8148.png	8148	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-20_seed_2804.png	2804	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-21_seed_4154.png	4154	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-21_seed_9180.png	9180	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-21_seed_2576.png	2576	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-12-21_seed_4892.png	4892	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-14-33_seed_1058.png	1058	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-04-14-34_seed_2460.png	2460	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-05-18-38_seed_3559.png	3559	sample(-1, 1, 1) * pi_x + sin(pi_y)	sample(-1, 1, 1) * pi_y + sin(pi_x)
+2018-11-05-19-16_seed_6585.png	6585	NA	NA
+2018-11-05-19-17_seed_4290.png	4290	NA	NA
+2018-11-05-19-17_seed_2118.png	2118	NA	NA
+2018-11-05-19-17_seed_6522.png	6522	NA	NA
+2018-11-05-19-17_seed_2502.png	2502	NA	NA
+2018-11-05-19-18_seed_8940.png	8940	NA	NA
+2018-11-05-19-18_seed_5154.png	5154	NA	NA
+2018-11-05-19-18_seed_3860.png	3860	NA	NA
+2018-11-05-19-18_seed_6833.png	6833	NA	NA
+2018-11-05-19-18_seed_5973.png	5973	NA	NA
+2018-11-05-19-18_seed_1513.png	1513	NA	NA
+2018-11-05-19-18_seed_5305.png	5305	NA	NA
+2018-11-05-19-18_seed_235.png	235	NA	NA
+2018-11-05-19-18_seed_5843.png	5843	NA	NA
+2018-11-05-19-18_seed_8599.png	8599	NA	NA
+2018-11-05-19-23_seed_603.png	603	NA	NA
+2018-11-05-19-23_seed_7117.png	7117	NA	NA
+2018-11-05-19-23_seed_3425.png	3425	NA	NA
+2018-11-05-19-23_seed_6782.png	6782	NA	NA
+2018-11-05-19-23_seed_1443.png	1443	NA	NA
+2018-11-05-19-23_seed_3523.png	3523	NA	NA
+2018-11-05-19-23_seed_7430.png	7430	NA	NA
+2018-11-05-19-23_seed_3196.png	3196	NA	NA
+2018-11-05-19-23_seed_4321.png	4321	NA	NA
+2018-11-05-19-23_seed_6288.png	6288	NA	NA
+2018-11-05-19-24_seed_8772.png	8772	NA	NA
+2018-11-05-19-24_seed_3067.png	3067	NA	NA
+2018-11-05-19-25_seed_2643.png	2643	NA	NA
+2018-11-05-19-25_seed_5796.png	5796	NA	NA
+2018-11-05-19-25_seed_1980.png	1980	NA	NA
+2018-11-05-19-25_seed_9768.png	9768	NA	NA
+2018-11-05-20-11_seed_8069.png	8069	NA	NA
+2018-11-05-20-11_seed_9351.png	9351	NA	NA
+2018-11-05-20-11_seed_2925.png	2925	NA	NA
+2018-11-05-20-11_seed_117.png	117	NA	NA
+2018-11-05-20-11_seed_3596.png	3596	NA	NA
+2018-11-05-20-11_seed_4873.png	4873	NA	NA
+2018-11-05-20-11_seed_4908.png	4908	NA	NA
+2018-11-05-20-11_seed_1209.png	1209	NA	NA
+2018-11-05-20-19_seed_5745.png	5745	NA	NA
+2018-11-05-20-19_seed_6090.png	6090	NA	NA
+2018-11-05-20-20_seed_8480.png	8480	NA	NA
+2018-11-05-20-20_seed_2942.png	2942	NA	NA
+2018-11-05-20-20_seed_742.png	742	NA	NA
+2018-11-05-20-20_seed_3178.png	3178	NA	NA
+2018-11-05-20-22_seed_707.png	707	NA	NA
+2018-11-05-20-22_seed_9600.png	9600	NA	NA
+2018-11-05-20-22_seed_4197.png	4197	NA	NA
+2018-11-05-20-22_seed_767.png	767	NA	NA
+2018-11-05-20-23_seed_8662.png	8662	NA	NA
+2018-11-05-20-23_seed_3900.png	3900	NA	NA
+2018-11-05-20-23_seed_7370.png	7370	NA	NA
+2018-11-05-20-23_seed_1124.png	1124	NA	NA
+2018-11-05-20-24_seed_1708.png	1708	NA	NA
+2018-11-05-20-24_seed_144.png	144	NA	NA
+2018-11-05-20-24_seed_2119.png	2119	NA	NA
+2018-11-05-20-24_seed_101.png	101	NA	NA
+2018-11-05-20-24_seed_79.png	79	NA	NA
+2018-11-05-20-24_seed_1794.png	1794	NA	NA
+2018-11-05-20-24_seed_8240.png	8240	NA	NA
+2018-11-05-20-24_seed_6436.png	6436	NA	NA
+2018-11-05-20-24_seed_9482.png	9482	NA	NA
+2018-11-05-20-24_seed_3715.png	3715	NA	NA
+2018-11-05-20-24_seed_2775.png	2775	NA	NA
+2018-11-05-20-24_seed_7769.png	7769	NA	NA
+2018-11-05-20-24_seed_8581.png	8581	NA	NA
+2018-11-05-20-24_seed_2137.png	2137	NA	NA
+2018-11-05-20-24_seed_8219.png	8219	NA	NA
+2018-11-05-20-24_seed_5330.png	5330	NA	NA
+2018-11-05-20-24_seed_5712.png	5712	NA	NA
+2018-11-05-20-24_seed_9830.png	9830	NA	NA
+2018-11-05-20-24_seed_1135.png	1135	NA	NA
+2018-11-05-20-24_seed_7902.png	7902	NA	NA
+2018-11-05-20-24_seed_446.png	446	NA	NA
+2018-11-05-20-24_seed_197.png	197	NA	NA
+2018-11-05-20-27_seed_9437.png	9437	NA	NA
+2018-11-05-20-27_seed_2136.png	2136	NA	NA
+2018-11-05-20-27_seed_4317.png	4317	NA	NA
+2018-11-05-20-39_seed_8103.png	8103	NA	NA
+2018-11-05-20-39_seed_3235.png	3235	NA	NA
+2018-11-05-20-39_seed_7853.png	7853	NA	NA
+2018-11-05-20-39_seed_3669.png	3669	NA	NA
+2018-11-05-20-39_seed_5510.png	5510	NA	NA
+2018-11-05-20-39_seed_1827.png	1827	NA	NA
+2018-11-05-20-39_seed_6985.png	6985	NA	NA
+2018-11-05-20-39_seed_1105.png	1105	NA	NA
+2018-11-05-20-39_seed_1925.png	1925	NA	NA
+2018-11-05-20-39_seed_8001.png	8001	NA	NA
+2018-11-05-20-40_seed_1825.png	1825	NA	NA
+2018-11-05-20-40_seed_6246.png	6246	NA	NA
+2018-11-05-20-40_seed_6886.png	6886	NA	NA
+2018-11-05-20-40_seed_7781.png	7781	NA	NA
+2018-11-05-20-40_seed_342.png	342	NA	NA
+2018-11-05-20-40_seed_3150.png	3150	NA	NA
+2018-11-05-20-40_seed_1979.png	1979	NA	NA
+2018-11-05-20-40_seed_837.png	837	NA	NA
+2018-11-05-20-40_seed_4295.png	4295	NA	NA
+2018-11-05-20-40_seed_8376.png	8376	NA	NA
+2018-11-05-20-41_seed_1865.png	1865	NA	NA
+2018-11-05-20-41_seed_6381.png	6381	NA	NA
+2018-11-05-20-41_seed_8239.png	8239	NA	NA
+2018-11-05-20-41_seed_5638.png	5638	NA	NA
+2018-11-05-20-41_seed_2320.png	2320	NA	NA
+2018-11-05-20-41_seed_8282.png	8282	NA	NA
+2018-11-05-20-41_seed_5711.png	5711	NA	NA
+2018-11-05-20-41_seed_1378.png	1378	NA	NA
+2018-11-05-20-41_seed_8705.png	8705	NA	NA
+2018-11-05-20-41_seed_6360.png	6360	NA	NA
+2018-11-05-20-42_seed_1877.png	1877	NA	NA
+2018-11-05-20-42_seed_7615.png	7615	NA	NA
+2018-11-05-20-42_seed_6230.png	6230	NA	NA
+2018-11-05-20-42_seed_7170.png	7170	NA	NA
+2018-11-05-20-42_seed_8818.png	8818	NA	NA
+2018-11-05-20-42_seed_8532.png	8532	NA	NA
+2018-11-05-20-42_seed_1084.png	1084	NA	NA
+2018-11-05-20-42_seed_333.png	333	NA	NA
+2018-11-05-20-42_seed_6301.png	6301	NA	NA
+2018-11-05-20-42_seed_697.png	697	NA	NA
+2018-11-05-20-43_seed_8997.png	8997	NA	NA
+2018-11-05-20-43_seed_151.png	151	NA	NA
+2018-11-05-20-43_seed_8351.png	8351	NA	NA
+2018-11-05-20-43_seed_1506.png	1506	NA	NA
+2018-11-05-20-43_seed_7426.png	7426	NA	NA
+2018-11-05-20-43_seed_9142.png	9142	NA	NA
+2018-11-05-20-43_seed_156.png	156	NA	NA
+2018-11-05-20-43_seed_4824.png	4824	NA	NA
+2018-11-05-20-43_seed_9678.png	9678	NA	NA
+2018-11-05-20-43_seed_9117.png	9117	NA	NA
+2018-11-05-20-45_seed_5446.png	5446	NA	NA
+2018-11-05-20-45_seed_374.png	374	NA	NA
+2018-11-05-20-45_seed_4807.png	4807	NA	NA
+2018-11-05-20-45_seed_9251.png	9251	NA	NA
+2018-11-05-20-45_seed_6999.png	6999	NA	NA
+2018-11-05-20-45_seed_7112.png	7112	NA	NA
+2018-11-05-20-45_seed_1400.png	1400	NA	NA
+2018-11-05-20-45_seed_6316.png	6316	NA	NA
+2018-11-05-20-45_seed_1996.png	1996	NA	NA
+2018-11-05-20-45_seed_2952.png	2952	NA	NA
+2018-11-05-20-46_seed_9700.png	9700	NA	NA
+2018-11-05-20-46_seed_6836.png	6836	NA	NA
+2018-11-05-20-46_seed_6686.png	6686	NA	NA
+2018-11-05-20-46_seed_3630.png	3630	NA	NA
+2018-11-05-20-46_seed_3347.png	3347	NA	NA
+2018-11-05-20-46_seed_6276.png	6276	NA	NA
+2018-11-05-20-46_seed_2068.png	2068	NA	NA
+2018-11-05-20-46_seed_4358.png	4358	NA	NA
+2018-11-05-20-46_seed_4531.png	4531	NA	NA
+2018-11-05-20-46_seed_4593.png	4593	NA	NA
+2018-11-05-20-58_seed_8553.png	8553	NA	NA
+2018-11-05-20-58_seed_807.png	807	NA	NA
+2018-12-01-16-53_seed_675.png	675	NA	NA
+2018-12-01-17-48_seed_6196.png	6196	NA	NA
+2018-12-01-17-49_seed_5181.png	5181	NA	NA
+2018-12-01-17-50_seed_2997.png	2997	NA	NA
+2018-12-01-17-50_seed_3449.png	3449	NA	NA
+2018-12-01-17-50_seed_2542.png	2542	NA	NA
+2018-12-01-17-51_seed_1031.png	1031	NA	NA
+2018-12-01-17-51_seed_7924.png	7924	NA	NA
+2018-12-01-17-52_seed_3607.png	3607	NA	NA
+2018-12-01-17-53_seed_2065.png	2065	NA	NA
+2018-12-01-17-54_seed_7910.png	7910	NA	NA
+2018-12-01-17-54_seed_3555.png	3555	NA	NA
+2018-12-01-17-57_seed_7302.png	7302	NA	NA
+2018-12-01-18-02_seed_6833.png	6833	NA	NA
+2018-12-01-18-04_seed_1846.png	1846	NA	NA
+2018-12-01-18-05_seed_1514.png	1514	NA	NA
+2018-12-01-18-08_seed_7171.png	7171	NA	NA
+2018-12-01-18-08_seed_6364.png	6364	NA	NA
+2018-12-01-18-09_seed_1076.png	1076	NA	NA
+2018-12-01-18-09_seed_7981.png	7981	NA	NA
+2018-12-01-18-14_seed_3740.png	3740	NA	NA
+2018-12-01-18-15_seed_3344.png	3344	NA	NA
+2018-12-01-21-59_seed_742.png	742	NA	NA
+2018-12-01-22-58_seed_2109.png	2109	NA	NA
+2018-12-01-23-00_seed_4744.png	4744	NA	NA
