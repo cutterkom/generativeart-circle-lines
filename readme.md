@@ -1,6 +1,6 @@
 # When Two Points on a Circle Form a Line
 
-There are many ways to produce computer created art. I show you one them written in `R`, that [leads to images like these](instagram.com/cutterkom):
+There are many ways to produce computer created abstract images. I show you one them written in `R`, that [leads to images like these](instagram.com/cutterkom):
 
 ![](generativeart_circle_lines.png)
 
