@@ -1,10 +1,4 @@
----
-title: "When Two Points on a Circle Form a Line"
-output:
-  html_document:
-    df_print: paged
----
-
+# When Two Points on a Circle Form a Line
 
 There are many ways to produce computer created art. I show you one them written in `R`, that leads to images like these:
 
