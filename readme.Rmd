@@ -47,7 +47,7 @@ get_circle_data <- function(center = c(0,0), radius = 1, npoints = 100){
 }
 ```
 
-The circle dataframe goes straight into a `generate_data()`, where every point on the circle is connected to excatly one other point:
+The circle dataframe goes straight into a `generate_data()`, where every point on the circle is connected to excatly one other point. The connections between a pair of coordinates are based on randomness, see `sample(nrow(df2))`:
 
 ```{r}
 generate_data <- function() {
